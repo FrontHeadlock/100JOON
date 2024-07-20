@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input_1.txt','r')
+sys.stdin = open('../input_1.txt', 'r')
 
 sum=0;
 A = int(input())
